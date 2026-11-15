@@ -18,7 +18,7 @@ Data Science Project (Part A). The project predicts the sale price of residentia
 | `chennai_house_price.py` | the whole project, from raw CSV to results |
 | `requirements.txt` | Python packages needed |
 | `README.md` | this file |
-| `VIVA_PREP.md` | practice questions and short answers |
+
 
 ## How to run
 1. Install Python 3.9 or newer.
