@@ -105,7 +105,7 @@ example_predictions.csv  # 10 example houses: inputs, actual and predicted price
 ## How to run
 
 1. Install Python 3.9 or newer.
-2. Download the dataset from Kaggle and put the CSV in the project folder (or in `data/`).
+2. Download the dataset and put the CSV in the project folder (or in `data/`).
 3. Install the packages: `pip install -r requirements.txt`
 4. Run: `python chennai_house_price.py`
 
